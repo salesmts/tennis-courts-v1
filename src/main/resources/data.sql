@@ -3,6 +3,7 @@ insert into guest(id, name) values(null, 'Rafael Nadal');
 
 insert into tennis_court(id, name) values(null, 'Roland Garros - Court Philippe-Chatrier');
 
+
 insert
     into
         schedule
